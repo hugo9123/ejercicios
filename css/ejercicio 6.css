@@ -1,0 +1,23 @@
+header{
+	background-color: #00FF00;
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid;
+}
+#gris{
+	background-color: #AAAAAA;
+	border-width: 1px;
+	border-color: #AAAAAA;
+	border-style: solid;
+}
+#azul{
+	background-color: #0080FF;
+	border-width: 1px;
+	border-color: #AAAAAA;
+	border-style: solid;}
+#verde{
+	background-color: #2EFE64;
+	border-width: 1px;
+	border-color: #0080FF;
+	border-style: solid;}
+}
